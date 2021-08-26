@@ -1,8 +1,8 @@
+## Hi! This is Toyohama.
+ 
+### self-introduction
+- A student frome China. 
 
-Hi!
-
-I am a student from China.
-
-I am learning python now.
-
-You can find me on telegram.
+### Contact me 
+-Tencent QQ | 3085315423
+-Github | Github:[Github@Toyohama](https://github.com/Sackcloth-tan)
