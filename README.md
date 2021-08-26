@@ -12,8 +12,9 @@
 
 
 
-![Sackcloth-tan's Github Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sackcloth-tan&theme=onedark)
 
+
+![Sackcloth-tan's Github Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sackcloth-tan&theme=vue)
 
 [![Sackcloth-tan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sackcloth-tan&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
