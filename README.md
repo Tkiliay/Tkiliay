@@ -18,7 +18,7 @@
 --电影《暮光之城》
 
 I love three things in the world,sun,moon,and you
-sun for morning,moon for night,and you forever.
+Sun for morning,moon for night,and you forever.
 
 ![Tkiliay's Github Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tkiliay&theme=vue)
 
