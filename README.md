@@ -20,9 +20,9 @@
 I love three things in the world,sun,moon,and you
 Sun for morning,moon for night,and you forever.
 
-![Tkiliay's Github Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tkiliay&theme=nord_bright)
-
 ![Tkiliay's Github stats](https://github-stats-alpha.vercel.app/api/?username=tkiliay&cc=f6bdd1&ic=000000&bc=FFFFFF&tc=FFFFFF)
+
+![Tkiliay's Github Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tkiliay&theme=nord_bright)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tkiliay&theme=nord_bright)
 
