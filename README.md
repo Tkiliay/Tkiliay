@@ -24,5 +24,5 @@ Sun for morning,moon for night,and you forever.
 
 ![Tkiliay's Github stats](https://github-stats-alpha.vercel.app/api/?username=tkiliay&cc=f6bdd1&ic=000000&bc=FFFFFF&tc=FFFFFF)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tkiliay&exclude_repo=kernel_xiaomi_msm8953)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tkiliay&exclude_repo=kernel_xiaomi_msm8953)](https://github.com/anuraghazra/github-readme-stats)
 
