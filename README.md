@@ -3,6 +3,9 @@
 ### Self-introduction
 - A student frome China. 
 
+![Tkiliay's Github stats](https://github-readme-stats.vercel.app/api?username=tkiliay&show_icons=true&hide_border=true&icon_color=000&title_color=000&include_all_commits_disable=false&custom_title=Up!&count_private)
+
+
 ### Contact me 
 
 -Telegram | 电报:[@Tkiliay](https://t.me/Tkiliay)
@@ -20,9 +23,8 @@
 I love three things in the world,sun,moon,and you
 Sun for morning,moon for night,and you forever.
 
-![Tkiliay's Github stats](https://github-stats-alpha.vercel.app/api/?username=tkiliay&cc=f6bdd1&ic=000000&bc=FFFFFF&tc=FFFFFF)
+### My device:
 
-![Tkiliay's Github Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tkiliay&theme=nord_bright)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tkiliay&theme=nord_bright)
-
+![Redmi K40](https://img.shields.io/badge/Redmi%20%20K40%20-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
+![Mi 5X](https://img.shields.io/badge/Xiaomi%20Mi%205X%20-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
+![Mi 9 SE](https://img.shields.io/badge/Xiaomi%20Mi%209SE%20-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
