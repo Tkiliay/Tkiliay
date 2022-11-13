@@ -23,7 +23,7 @@
 I love three things in the world,sun,moon,and you
 Sun for morning,moon for night,and you forever.
 
-### My device:
+### My device 
 
 ![Redmi K40](https://img.shields.io/badge/Redmi%20%20K40%20-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 ![Mi 5X](https://img.shields.io/badge/Xiaomi%20Mi%205X%20-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
