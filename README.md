@@ -20,11 +20,11 @@
 日为朝，月为暮，卿为朝朝暮暮。
 --电影《暮光之城》
 
-I love three things in the world,sun,moon,and you
+I love three things in the world,sun,moon,and you.
 Sun for morning,moon for night,and you forever.
 
 ### My device 
 
 ![Redmi K40](https://img.shields.io/badge/Redmi%20%20K40%20-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 ![Mi 5X](https://img.shields.io/badge/Xiaomi%20Mi%205X%20-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
-![Mi 9 SE](https://img.shields.io/badge/Xiaomi%20Mi%209SE%20-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
+![Mi 9 SE](https://img.shields.io/badge/Xiaomi%20Mi%209%20SE%20-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
