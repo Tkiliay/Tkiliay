@@ -14,15 +14,6 @@
 
 -Email: sackclouths@outlook.com
 
-### Signature
-
-浮世万千，吾爱有三，日月卿。
-日为朝，月为暮，卿为朝朝暮暮。
---电影《暮光之城》
-
-I love three things in the world,sun,moon,and you.
-Sun for morning,moon for night,and you forever.
-
 ### My device 
 
 ![Redmi K40](https://img.shields.io/badge/Redmi%20%20K40%20-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
