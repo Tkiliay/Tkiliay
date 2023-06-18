@@ -5,7 +5,7 @@
 
 ![Tkiliay's Github stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tkiliay&theme=graywhite)
 
-![Tkiliay'commit history](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tkiliay&theme=graywhite&utcOffset=8) ![Tkiliay's commit](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tkiliay&theme=graywhite)
+![Tkiliay'commit history](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tkiliay&theme=graywhite&utcOffset=8) ![Tkiliay's commit](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tkiliay&theme=graywhite&include_all_commits_disable=false&custom_title=Up!&count_private)
 
 
 ### Contact me 
