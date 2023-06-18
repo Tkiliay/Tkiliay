@@ -3,7 +3,9 @@
 ### Self-introduction
 - I am a student from China interested in kernel and android
 
-![Tkiliay's Github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tkiliay&theme=ayu_mirage)
+![Tkiliay's Github stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tkiliay&theme=graywhite)
+
+![Tkiliay'commit history](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tkiliay&theme=graywhite&utcOffset=8) ![Tkiliay's commit](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tkiliay&theme=graywhite)
 
 
 ### Contact me 
