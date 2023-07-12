@@ -1,7 +1,7 @@
 ## Hi! This is Toyohama. 👋
  
 ### Self-introduction
-- I am a student from China interested in kernel and android
+- I am a student from China interested in Linux Kernel and Android
 
 ![Tkiliay's Github stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tkiliay&theme=graywhite)
 
@@ -21,3 +21,5 @@
 ![Redmi K40](https://img.shields.io/badge/Redmi%20%20K40%20-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 ![Mi 5X](https://img.shields.io/badge/Xiaomi%20Mi%205X%20-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 ![Mi 9 SE](https://img.shields.io/badge/Xiaomi%20Mi%209%20SE%20-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
+
+![](https://komarev.com/ghpvc/?username=Tkiliay&color=ff69b4&style=flat)
