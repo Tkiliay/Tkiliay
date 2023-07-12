@@ -22,4 +22,4 @@
 ![Mi 5X](https://img.shields.io/badge/Xiaomi%20Mi%205X%20-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 ![Mi 9 SE](https://img.shields.io/badge/Xiaomi%20Mi%209%20SE%20-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 
-![](https://komarev.com/ghpvc/?username=Tkiliay&color=ff69b4&style=flat)
+![](https://komarev.com/ghpvc/?username=Tkiliay&color=lightgrey&style=flat)
