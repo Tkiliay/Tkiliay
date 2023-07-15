@@ -16,7 +16,7 @@
 
 -Email: sackclouths@outlook.com
 
-### Buy me a coffee
+### Buy me a cup of coffee
 [爱发电](https://afdian.net/a/Tkiliay)
 
 ### My device 
