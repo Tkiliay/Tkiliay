@@ -1,4 +1,4 @@
-## Hi! This is Toyohama. 👋
+## Hi! This is Toyohama.
  
 ### Self-introduction
 - I am a student from China interested in Linux Kernel and Android
