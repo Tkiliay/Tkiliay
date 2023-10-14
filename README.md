@@ -1,7 +1,7 @@
 ## Hi! This is Toyohama.
  
 ### Self-introduction
-- I am a student from China interested in Linux Kernel and Android
+- I am a student from China interested in Linux Kernel and Android.
 
 ![Tkiliay's Github stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tkiliay&theme=graywhite)
 
