@@ -3,9 +3,9 @@
 ### Self-introduction
 - I am a student from China interested in Linux Kernel and Android.
 
-![Tkiliay's Github stats](https://github-readme-stats-one-bice.vercel.app/api?username=Tkiliay&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_all_commits=true&theme=catppuccin_latte&hide_border=true&icon_color=000&title_color=000&count_private=true)
+![Tkiliay's Github stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tkiliay&theme=graywhite)
 
-![Tkiliay'commit history](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tkiliay&theme=graywhite&utcOffset=8) ![Tkiliay's commit](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tkiliay&theme=graywhite&include_all_commits_disable=false&custom_title=Up!&count_private)
+![Tkiliay'commit history](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tkiliay&theme=graywhite&utcOffset=8) ![Tkiliay's commit](https://github-readme-stats-one-bice.vercel.app/api?username=Tkiliay&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_all_commits=true&theme=catppuccin_latte&hide_border=true&icon_color=000&title_color=000&count_private=true)
 
 
 ### Contact me 
