@@ -16,6 +16,9 @@
 
 -Email: sackclouths@outlook.com
 
+### Support my work
+[爱发电](https://afdian.com/a/Tkiliay)
+
 ### My device 
 
 ![Redmi K40](https://img.shields.io/badge/Redmi%20%20K40%20-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
