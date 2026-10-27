@@ -18,6 +18,7 @@
 
 ### Support my work
 [爱发电](https://afdian.com/a/Tkiliay)
+[PayPal](https://www.paypal.com/ncp/payment/XB92NG6X7P2ZN)
 
 ### My device 
 
